@@ -12,7 +12,5 @@ Softwares in use:-
 For Mobile: <br>
 ⦿ "Acode - code editor | FOSS" by Foxdebug <br>
 with GitHub plugin <br>
-⦿ Official site: https://acode.app/ <br>
-⦿ PlayStore: https://play.google.com/store/apps/details?id=com.foxdebug.acodefree <br>
-⦿ F-Droid: https://f-droid.org/en/packages/com.foxdebug.acode/ <br>
-⦿ GitHub: https://github.com/deadlyjack/Acode <br>
+• Official site: https://acode.app/ <br>
+• F-Droid: https://f-droid.org/en/packages/com.foxdebug.acode/ <br>
