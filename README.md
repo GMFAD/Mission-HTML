@@ -5,14 +5,14 @@ HTML  =  Hypertext Markup Language, HyperText Markup Language or HTML is the sta
 
 File extention .html
 
-Free learning from "Bro Code" (@BroCodez) on YouTube
-https://www.youtube.com/playlist?list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt
+Free learning from "Bro Code" (@BroCodez) on YouTube https://www.youtube.com/playlist?list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt
 
 Softwares in use:-
 
 For Mobile: <br>
 ⦿ "Acode - code editor | FOSS" by Foxdebug <br>
+with GitHub plugin <br>
 ⦿ Official site: https://acode.app/ <br>
-⦿ PlayStore: https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en&gl=US <br>
+⦿ PlayStore: https://play.google.com/store/apps/details?id=com.foxdebug.acodefree <br>
 ⦿ F-Droid: https://f-droid.org/en/packages/com.foxdebug.acode/ <br>
 ⦿ GitHub: https://github.com/deadlyjack/Acode <br>
